@@ -1,0 +1,13 @@
+1.Nama : Aco Wahyudi
+NIM    : H202000001
+JK     : Laki Laki
+Agama  : Islam
+TTL    : Ambon, 19 Agustus 2003
+Alamat : Jln. Loa Bakung RT.21 RW.24
+
+2.Nama : Erna Mulyani
+NIM    : H202000002
+JK     : Perempuan
+Agama  : Islam
+TTL    : Samarinda, 02 Juni 2003
+Alamat : Jln. Bantuas RT.01 RW.18
